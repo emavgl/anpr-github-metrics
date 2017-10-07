@@ -1,0 +1,8 @@
+version: '2'
+services:
+  api:
+    build: ./api
+    ports:
+      - "5010:5000"
+    restart: always
+  

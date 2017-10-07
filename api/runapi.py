@@ -15,19 +15,19 @@ ORGANIZATION = "italia"
 ghapi = GithubApi(USERNAME, PASSWORD)
 organization = ghapi.get_organization(ORGANIZATION)
 
-@app.route("/hello")
-def hello_world():
+@app.route("/stats")
+def get_organization_info():
     """
-    Hello World!
+    Get basic organization info
     """
-    res = {'res': 'ciao'}
+    res = {'organization_info': ghapi.get_organization_info(organization)}
     json_res = json.dumps(res)
     return json_res, 200, {'Content-Type': 'application/json'}
 
 @app.route("/repositories")
 def get_repositories():
     """
-    Hello World!
+    Get list of repositories
     """
     repositories = ghapi.get_repositories_list(organization)
     res = {'repositories': repositories}
@@ -37,7 +37,7 @@ def get_repositories():
 @app.route("/repositories/<repository_name>")
 def get_repository_info(repository_name):
     """
-    Hello World!
+    Get repository info
     """
     repository = ghapi.get_repository(organization, repository_name)
     repo_info = ghapi.get_repository_info(repository)

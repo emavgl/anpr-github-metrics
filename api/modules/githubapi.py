@@ -16,6 +16,16 @@ class GithubApi:
 		"""
 		return self.g.get_organization(organization_name)
 
+	def get_organization_info(self, organization):
+		org_info = {}
+		org_info['number_of_collaborators'] = organization.collaborators
+		org_info['number_of_followers'] = organization.followers
+		org_info['number_of_following'] = organization.following
+		org_info['id'] = organization.id
+		org_info['email'] = organization.email
+		org_info['name'] = organization.name
+		return org_info
+
 	# ISSUES
 
 	def get_issue_info(self, entry):

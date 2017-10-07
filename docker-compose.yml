@@ -5,4 +5,9 @@ services:
     ports:
       - "5010:5000"
     restart: always
-  
+
+  client-web:
+    build: ./client-js
+    ports:
+      - "5011:4000"
+    restart: always

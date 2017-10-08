@@ -1,4 +1,4 @@
-FROM golang:1.8.4-alpine3.5
+FROM golang:1.8.4-alpine3.6
 MAINTAINER https://github.com/damdo
 RUN apk update; apk add --no-cache git nodejs-npm
 

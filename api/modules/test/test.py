@@ -13,7 +13,7 @@ class TestGithubApi(unittest.TestCase):
 		g = ghapi.GithubApi(USERNAME, PASSWORD)
 		organization = g.get_organization(ORGANIZATION)
 		repository = g.get_repository(organization, "anpr")
-		issues = g.get_issues(repository)
+		issues, pull_requests = g.get_issues_and_pull_requests(organization.login, repository.name)
 		self.assertEqual(issues['number_total'], 346)
 
 

@@ -1,7 +1,13 @@
 import json, datetime
 from flask import Flask, request, g, url_for
+from flask.ext.cache import Cache
 from modules.githubapi import GithubApi
 app = Flask(__name__)
+cache = Cache(app,config={'CACHE_TYPE': 'simple'})
+
+def make_cache_key(*args, **kwargs):
+    print(request.full_path)
+    return request.full_path 
 
 def datetime_handler(x):
     if isinstance(x, datetime.datetime):
@@ -16,6 +22,7 @@ ghapi = GithubApi(USERNAME, PASSWORD)
 organization = ghapi.get_organization(ORGANIZATION)
 
 @app.route("/stats")
+@cache.memoize(120)
 def get_organization_info():
     """
     Get basic organization info
@@ -25,6 +32,7 @@ def get_organization_info():
     return json_res, 200, {'Content-Type': 'application/json'}
 
 @app.route("/repositories")
+@cache.memoize(120)
 def get_repositories():
     """
     Get list of repositories
@@ -35,6 +43,7 @@ def get_repositories():
     return json_res, 200, {'Content-Type': 'application/json'}
 
 @app.route("/repositories/<repository_name>")
+@cache.cached(timeout=3600, key_prefix=make_cache_key)
 def get_repository_info(repository_name):
     """
     Get repository info

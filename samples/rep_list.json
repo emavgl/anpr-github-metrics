@@ -4,709 +4,961 @@
             "id": 55225671,
             "name": "spid-idp-login-layout",
             "description": "User interface SPID per Identity Provider - Sistema di login",
-            "url": "git://github.com/italia/spid-idp-login-layout.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-idp-login-layout.git",
+            "owner": "italia"
         },
         {
             "id": 55225885,
             "name": "spid-i18n",
             "description": "Internazionalizzazione interfacce e pagine SPID",
-            "url": "git://github.com/italia/spid-i18n.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-i18n.git",
+            "owner": "italia"
         },
         {
             "id": 55226039,
             "name": "spid-sp-access-button",
             "description": "Bottone di scelta dell'Identity Provider per l'accesso ai servizi dei Service Provider",
-            "url": "git://github.com/italia/spid-sp-access-button.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-sp-access-button.git",
+            "owner": "italia"
         },
         {
             "id": 55226413,
             "name": "spid-button",
             "description": "Bottone SPID generico",
-            "url": "git://github.com/italia/spid-button.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-button.git",
+            "owner": "italia"
         },
         {
             "id": 55238058,
             "name": "spid-graphics",
             "description": "Icone, loghi e grafiche SPID",
-            "url": "git://github.com/italia/spid-graphics.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-graphics.git",
+            "owner": "italia"
         },
         {
             "id": 70080444,
             "name": "design-web-toolkit",
             "description": "Implementazione di riferimento delle linee guida di service design PA",
-            "url": "git://github.com/italia/design-web-toolkit.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/design-web-toolkit.git",
+            "owner": "italia"
         },
         {
             "id": 79357326,
             "name": "anpr",
             "description": "ANPR - Anagrafe Nazionale della Popolazione Residente",
-            "url": "git://github.com/italia/anpr.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/anpr.git",
+            "owner": "italia"
         },
         {
             "id": 84112994,
             "name": "developers.italia.it",
             "description": "La comunità italiana degli sviluppatori di servizi pubblici",
-            "url": "git://github.com/italia/developers.italia.it.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/developers.italia.it.git",
+            "owner": "italia"
         },
         {
             "id": 84877249,
             "name": "sphinx_italia_theme",
             "description": "Tema per la documentazione Sphinx",
-            "url": "git://github.com/italia/sphinx_italia_theme.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/sphinx_italia_theme.git",
+            "owner": "italia"
         },
         {
             "id": 85169505,
             "name": "daf-dataportal-backend",
             "description": "Backend per il nuovo frontend (in sviluppo) di dati.gov.it",
-            "url": "git://github.com/italia/daf-dataportal-backend.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/daf-dataportal-backend.git",
+            "owner": "italia"
         },
         {
             "id": 85601103,
             "name": "spid-regole-tecniche",
             "description": "Regole tecniche SPID",
-            "url": "git://github.com/italia/spid-regole-tecniche.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-regole-tecniche.git",
+            "owner": "italia"
         },
         {
             "id": 85854085,
             "name": "dati.gov.it",
             "description": "dati.gov.it: il sito degli opendata italiani",
-            "url": "git://github.com/italia/dati.gov.it.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/dati.gov.it.git",
+            "owner": "italia"
         },
         {
             "id": 85888947,
             "name": "sampledoc-docs-developers-italia",
             "description": "SampleDoc for Docs Developers Italia - docs.developers.italia.it ",
-            "url": "git://github.com/italia/sampledoc-docs-developers-italia.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/sampledoc-docs-developers-italia.git",
+            "owner": "italia"
         },
         {
             "id": 86263043,
             "name": "spid-sp-simplesamlphp",
             "description": "SPID Service Provider SAML basato su SimpleSamlPhp",
-            "url": "git://github.com/italia/spid-sp-simplesamlphp.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-sp-simplesamlphp.git",
+            "owner": "italia"
         },
         {
             "id": 86299103,
             "name": "spid-sp-playbook",
             "description": "Service provider di base con autenticazione SPID",
-            "url": "git://github.com/italia/spid-sp-playbook.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-sp-playbook.git",
+            "owner": "italia"
         },
         {
             "id": 86533426,
             "name": "spid-metadata-signer",
             "description": "Tool per la firma del metadata SAML SPID",
-            "url": "git://github.com/italia/spid-metadata-signer.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-metadata-signer.git",
+            "owner": "italia"
         },
         {
             "id": 87190429,
             "name": "cie-middleware",
             "description": "Middleware della CIE (Carta di identità elettronica)",
-            "url": "git://github.com/italia/cie-middleware.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/cie-middleware.git",
+            "owner": "italia"
         },
         {
             "id": 87360967,
             "name": "linee-guida-cataloghi-dati-dcat-ap-it",
             "description": "Linee guida per l’alimentazione e gestione di cataloghi dati secondo il profilo nazionale di metadatazione DCAT-AP_IT",
-            "url": "git://github.com/italia/linee-guida-cataloghi-dati-dcat-ap-it.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/linee-guida-cataloghi-dati-dcat-ap-it.git",
+            "owner": "italia"
         },
         {
             "id": 88879172,
             "name": "anpr-doc-subentro",
             "description": "ANPR - Documentazione sulle procedure di rettifica delle anomalie per il subentro",
-            "url": "git://github.com/italia/anpr-doc-subentro.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/anpr-doc-subentro.git",
+            "owner": "italia"
         },
         {
             "id": 89623416,
             "name": "daf",
             "description": "Data & Analytics Framework (DAF)",
-            "url": "git://github.com/italia/daf.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/daf.git",
+            "owner": "italia"
         },
         {
             "id": 90866054,
             "name": "cie-ideaapp",
             "description": "App IDEA per Android che consente la lettura dati documento ICAO",
-            "url": "git://github.com/italia/cie-ideaapp.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/cie-ideaapp.git",
+            "owner": "italia"
         },
         {
             "id": 91099608,
             "name": "pianotriennale-ict-doc",
             "description": "Documento Piano Triennale ICT",
-            "url": "git://github.com/italia/pianotriennale-ict-doc.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/pianotriennale-ict-doc.git",
+            "owner": "italia"
         },
         {
             "id": 91099646,
             "name": "pianotriennale-ict.italia.it",
             "description": "Sito Piano Triennale ICT",
-            "url": "git://github.com/italia/pianotriennale-ict.italia.it.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/pianotriennale-ict.italia.it.git",
+            "owner": "italia"
         },
         {
             "id": 91302430,
             "name": "spid-metadata-builder",
             "description": "Generatore metadata SPID",
-            "url": "git://github.com/italia/spid-metadata-builder.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-metadata-builder.git",
+            "owner": "italia"
         },
         {
             "id": 92728110,
             "name": "designers.italia.it",
             "description": "La comunità italiana dei designer di servizi pubblici",
-            "url": "git://github.com/italia/designers.italia.it.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/designers.italia.it.git",
+            "owner": "italia"
         },
         {
             "id": 92855670,
             "name": "design-doc",
             "description": "Documentazione linee guida di design (readthedocs)",
-            "url": "git://github.com/italia/design-doc.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/design-doc.git",
+            "owner": "italia"
         },
         {
             "id": 92855865,
             "name": "design-ui-kit",
             "description": "Official UI components and templates for the Italia design system",
-            "url": "git://github.com/italia/design-ui-kit.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/design-ui-kit.git",
+            "owner": "italia"
         },
         {
             "id": 92855909,
             "name": "design-icon-kit",
             "description": "Official icon set for the Italia design system",
-            "url": "git://github.com/italia/design-icon-kit.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/design-icon-kit.git",
+            "owner": "italia"
         },
         {
             "id": 94805817,
             "name": "spid-wordpress",
             "description": "SPID Wordpress plugin (based on SimpleSAMLphp)",
-            "url": "git://github.com/italia/spid-wordpress.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-wordpress.git",
+            "owner": "italia"
         },
         {
             "id": 95549199,
             "name": "moduli-pa",
             "description": null,
-            "url": "git://github.com/italia/moduli-pa.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/moduli-pa.git",
+            "owner": "italia"
         },
         {
             "id": 95801124,
             "name": "pianotri-elencobasidatichiave",
             "description": "Piano Triennale: Elenco Basi Dati Chiave",
-            "url": "git://github.com/italia/pianotri-elencobasidatichiave.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/pianotri-elencobasidatichiave.git",
+            "owner": "italia"
         },
         {
             "id": 96307506,
             "name": "spid-smart-button",
             "description": "Nuovo pulsante login per SPID basato su finestra modale JavaScript (in sviluppo)",
-            "url": "git://github.com/italia/spid-smart-button.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-smart-button.git",
+            "owner": "italia"
         },
         {
             "id": 96909035,
             "name": "CoreUI-Free-Bootstrap-Admin-Template",
             "description": "CoreUI is free bootstrap admin template with Angular2, AngularJS, React.js & Vue.js support.",
-            "url": "git://github.com/italia/CoreUI-Free-Bootstrap-Admin-Template.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/CoreUI-Free-Bootstrap-Admin-Template.git",
+            "owner": "italia"
         },
         {
             "id": 97132915,
             "name": "spid-dotnet-sdk",
             "description": "SPID authentication library for .NET",
-            "url": "git://github.com/italia/spid-dotnet-sdk.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-dotnet-sdk.git",
+            "owner": "italia"
         },
         {
             "id": 97532657,
             "name": "monitoraggio-italia-it",
             "description": null,
-            "url": "git://github.com/italia/monitoraggio-italia-it.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/monitoraggio-italia-it.git",
+            "owner": "italia"
         },
         {
             "id": 97823186,
             "name": "daf-piano-di-sviluppo",
             "description": "DAF Piano di Sviluppo",
-            "url": "git://github.com/italia/daf-piano-di-sviluppo.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/daf-piano-di-sviluppo.git",
+            "owner": "italia"
         },
         {
             "id": 98202304,
             "name": "pianotriennale-ict-doc-en",
             "description": null,
-            "url": "git://github.com/italia/pianotriennale-ict-doc-en.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/pianotriennale-ict-doc-en.git",
+            "owner": "italia"
         },
         {
             "id": 98331665,
             "name": "dati-ckan-docker",
             "description": "Support for making ckan plus dcatap_it plugins running under docker ",
-            "url": "git://github.com/italia/dati-ckan-docker.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/dati-ckan-docker.git",
+            "owner": "italia"
         },
         {
             "id": 98334992,
             "name": "docs.italia.it",
             "description": "docs.italia.it source code",
-            "url": "git://github.com/italia/docs.italia.it.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/docs.italia.it.git",
+            "owner": "italia"
         },
         {
             "id": 98812786,
             "name": "lg-transizione-interoperabilita",
             "description": "Linee guida per transitare al nuovo modello di interoperabilità",
-            "url": "git://github.com/italia/lg-transizione-interoperabilita.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/lg-transizione-interoperabilita.git",
+            "owner": "italia"
         },
         {
             "id": 98913904,
             "name": "lg-patrimonio-pubblico",
             "description": "Linee guida per la valorizzazione del patrimonio informativo pubblico",
-            "url": "git://github.com/italia/lg-patrimonio-pubblico.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/lg-patrimonio-pubblico.git",
+            "owner": "italia"
         },
         {
             "id": 98914090,
             "name": "pianotri-schede-bdin",
             "description": "Schede Basi di Dati di Interesse Nazionale",
-            "url": "git://github.com/italia/pianotri-schede-bdin.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/pianotri-schede-bdin.git",
+            "owner": "italia"
         },
         {
             "id": 98914221,
             "name": "daf-ontologie-vocabolari-controllati",
             "description": "Elenco di ontologie e vocabolari controllati",
-            "url": "git://github.com/italia/daf-ontologie-vocabolari-controllati.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/daf-ontologie-vocabolari-controllati.git",
+            "owner": "italia"
         },
         {
             "id": 99320170,
             "name": "daf-dataportal",
             "description": "La UI (user interface) del progetto DAF",
-            "url": "git://github.com/italia/daf-dataportal.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/daf-dataportal.git",
+            "owner": "italia"
         },
         {
             "id": 99335608,
             "name": "docs-italia-theme",
             "description": "Docs Italia Theme",
-            "url": "git://github.com/italia/docs-italia-theme.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/docs-italia-theme.git",
+            "owner": "italia"
         },
         {
             "id": 99350838,
             "name": "spid-lg-saml",
             "description": "Linee Guida - SPID - SAML",
-            "url": "git://github.com/italia/spid-lg-saml.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-lg-saml.git",
+            "owner": "italia"
         },
         {
             "id": 102503223,
             "name": "pagopa-doc-overview",
             "description": "PagoPA Documentation - Overview",
-            "url": "git://github.com/italia/pagopa-doc-overview.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/pagopa-doc-overview.git",
+            "owner": "italia"
         },
         {
             "id": 102594292,
             "name": "pagopa-doc-architettura",
             "description": "PagoPA Documentation - Architettura",
-            "url": "git://github.com/italia/pagopa-doc-architettura.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/pagopa-doc-architettura.git",
+            "owner": "italia"
         },
         {
             "id": 103021884,
             "name": "daf-ckan-crawler",
             "description": "Pseudo distributed ckan crawler",
-            "url": "git://github.com/italia/daf-ckan-crawler.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/daf-ckan-crawler.git",
+            "owner": "italia"
         },
         {
             "id": 103428978,
             "name": "pagopa-doc-faq",
             "description": "PagoPA Documentation - FAQ",
-            "url": "git://github.com/italia/pagopa-doc-faq.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/pagopa-doc-faq.git",
+            "owner": "italia"
         },
         {
             "id": 103434557,
             "name": "pagopa-doc-formatoXML",
             "description": "PagoPA Documentation - Formato Messaggi XML",
-            "url": "git://github.com/italia/pagopa-doc-formatoXML.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/pagopa-doc-formatoXML.git",
+            "owner": "italia"
         },
         {
             "id": 103566930,
             "name": "daf-semantics",
             "description": "Daf Semantics repository",
-            "url": "git://github.com/italia/daf-semantics.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/daf-semantics.git",
+            "owner": "italia"
         },
         {
             "id": 103649587,
             "name": "pagopa-doc-specattuative",
             "description": "PagoPA Documentation - Specifiche Attuative Pagamenti",
-            "url": "git://github.com/italia/pagopa-doc-specattuative.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/pagopa-doc-specattuative.git",
+            "owner": "italia"
         },
         {
             "id": 103651039,
             "name": "spid-symfony-bundle",
             "description": "SPID bundle per framework php Symfony",
-            "url": "git://github.com/italia/spid-symfony-bundle.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-symfony-bundle.git",
+            "owner": "italia"
         },
         {
             "id": 103899431,
             "name": "pagopa-doc-specWS",
             "description": "PagoPA Documentation - Specifiche Web Services",
-            "url": "git://github.com/italia/pagopa-doc-specWS.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/pagopa-doc-specWS.git",
+            "owner": "italia"
         },
         {
             "id": 104077762,
             "name": "daf-docs",
             "description": "Documentation for the Data & Analytics Framework (DAF)",
-            "url": "git://github.com/italia/daf-docs.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/daf-docs.git",
+            "owner": "italia"
         },
         {
             "id": 104078499,
             "name": "spid-rails",
             "description": "SPID authentication for Ruby on Rails",
-            "url": "git://github.com/italia/spid-rails.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-rails.git",
+            "owner": "italia"
         },
         {
             "id": 104184127,
             "name": "spid-django",
             "description": "SPID authentication for Django",
-            "url": "git://github.com/italia/spid-django.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-django.git",
+            "owner": "italia"
         },
         {
             "id": 104223058,
             "name": "daf-dataportal-public",
             "description": "Public Data Frontend for DAF",
-            "url": "git://github.com/italia/daf-dataportal-public.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/daf-dataportal-public.git",
+            "owner": "italia"
         },
         {
             "id": 104325634,
             "name": "daf-replicate-ingestion",
             "description": "Microservice to ingest data from Replicate and push it into DAF",
-            "url": "git://github.com/italia/daf-replicate-ingestion.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/daf-replicate-ingestion.git",
+            "owner": "italia"
         },
         {
             "id": 104373730,
             "name": "daf-metabase-cacher",
             "description": "A microservice to cache Metabase plots",
-            "url": "git://github.com/italia/daf-metabase-cacher.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/daf-metabase-cacher.git",
+            "owner": "italia"
         },
         {
             "id": 104376508,
             "name": "anpr-wsdl-docwriter",
             "description": "An automated generator of API documentation starting from WSDL files",
-            "url": "git://github.com/italia/anpr-wsdl-docwriter.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/anpr-wsdl-docwriter.git",
+            "owner": "italia"
         },
         {
             "id": 104377738,
             "name": "anpr-github-privacy-check",
             "description": "A service to enforce the absence of sensitive data on ANPR tickets",
-            "url": "git://github.com/italia/anpr-github-privacy-check.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/anpr-github-privacy-check.git",
+            "owner": "italia"
         },
         {
             "id": 104378462,
             "name": "anpr-github-metrics",
             "description": "An analytics system for github issues",
-            "url": "git://github.com/italia/anpr-github-metrics.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/anpr-github-metrics.git",
+            "owner": "italia"
         },
         {
             "id": 104760342,
             "name": "security-pulse",
             "description": "How the .gov domain space is doing at best practices and federal requirements.",
-            "url": "git://github.com/italia/security-pulse.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/security-pulse.git",
+            "owner": "italia"
         },
         {
             "id": 104766795,
             "name": "security-securethenews",
             "description": "An automated scanner and web dashboard for tracking TLS deployment across news organizations",
-            "url": "git://github.com/italia/security-securethenews.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/security-securethenews.git",
+            "owner": "italia"
         },
         {
             "id": 104864927,
             "name": "pagopa-doc-legacy",
             "description": "Old PagoPA Documentation in PDF format",
-            "url": "git://github.com/italia/pagopa-doc-legacy.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/pagopa-doc-legacy.git",
+            "owner": "italia"
         },
         {
             "id": 104865751,
             "name": "spid-perl-dancer",
             "description": "SPID authentication module for Perl Dancer",
-            "url": "git://github.com/italia/spid-perl-dancer.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-perl-dancer.git",
+            "owner": "italia"
         },
         {
             "id": 104871064,
             "name": "spid-perl-mojolicious",
             "description": "SPID authentication module for Perl Mojolicious",
-            "url": "git://github.com/italia/spid-perl-mojolicious.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-perl-mojolicious.git",
+            "owner": "italia"
         },
         {
             "id": 104890289,
             "name": "design-bootstrap4",
             "description": "A Bootstrap 4 toolkit that implements the Italia design system",
-            "url": "git://github.com/italia/design-bootstrap4.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/design-bootstrap4.git",
+            "owner": "italia"
         },
         {
             "id": 104890644,
             "name": "design-react",
             "description": "A React toolkit that implements the Italia design system",
-            "url": "git://github.com/italia/design-react.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/design-react.git",
+            "owner": "italia"
         },
         {
             "id": 104890704,
             "name": "design-angular",
             "description": "An Angular-based toolkit that implements the Italia design system",
-            "url": "git://github.com/italia/design-angular.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/design-angular.git",
+            "owner": "italia"
         },
         {
             "id": 104892873,
             "name": "cie-mrtd-sdk",
             "description": "SDK for reading the ICAO MRTD information from the Italian Electronic Identity Card (CIE)",
-            "url": "git://github.com/italia/cie-mrtd-sdk.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/cie-mrtd-sdk.git",
+            "owner": "italia"
         },
         {
             "id": 104893992,
             "name": "design-joomla-theme",
             "description": "A Joomla theme which implements the Italia Design System",
-            "url": "git://github.com/italia/design-joomla-theme.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/design-joomla-theme.git",
+            "owner": "italia"
         },
         {
             "id": 104894091,
             "name": "design-wordpress-theme",
             "description": "A Wordpress theme which implements the Italia Design System",
-            "url": "git://github.com/italia/design-wordpress-theme.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/design-wordpress-theme.git",
+            "owner": "italia"
         },
         {
             "id": 104894148,
             "name": "design-jekyll-theme",
             "description": "A Jekyll theme which implements the Italia Design System",
-            "url": "git://github.com/italia/design-jekyll-theme.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/design-jekyll-theme.git",
+            "owner": "italia"
         },
         {
             "id": 104894235,
             "name": "design-drupal-theme",
             "description": "A Drupal theme which implements the Italia Design System",
-            "url": "git://github.com/italia/design-drupal-theme.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/design-drupal-theme.git",
+            "owner": "italia"
         },
         {
             "id": 104897218,
             "name": "cie-PN532",
             "description": "Arduino library for SPI and I2C access to the PN532 NFC chip in the Italian Electronic Identity Card (CIE)",
-            "url": "git://github.com/italia/cie-PN532.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/cie-PN532.git",
+            "owner": "italia"
         },
         {
             "id": 104914557,
             "name": "spid-testenv-docs",
             "description": "SPID Test Environment Docs",
-            "url": "git://github.com/italia/spid-testenv-docs.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-testenv-docs.git",
+            "owner": "italia"
         },
         {
             "id": 104921021,
             "name": "daf-jsoncsv2rdf-pipeline",
             "description": "Pipeline for tranforming JSON and CSV data to RDF",
-            "url": "git://github.com/italia/daf-jsoncsv2rdf-pipeline.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/daf-jsoncsv2rdf-pipeline.git",
+            "owner": "italia"
         },
         {
             "id": 104924116,
             "name": "daf-recipes",
             "description": "Docker and docker-compose recipes configured for DAF (3rd parties)",
-            "url": "git://github.com/italia/daf-recipes.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/daf-recipes.git",
+            "owner": "italia"
         },
         {
             "id": 104926519,
             "name": "security-dashboard",
             "description": "A dashboard that shows the status of security features on .gov.it websites",
-            "url": "git://github.com/italia/security-dashboard.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/security-dashboard.git",
+            "owner": "italia"
         },
         {
             "id": 104940153,
             "name": "security-recipes",
             "description": "Docker and other deploy recipes for security dashboards",
-            "url": "git://github.com/italia/security-recipes.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/security-recipes.git",
+            "owner": "italia"
         },
         {
             "id": 104993509,
             "name": "spid-docs",
             "description": "Documentazione SPID",
-            "url": "git://github.com/italia/spid-docs.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-docs.git",
+            "owner": "italia"
         },
         {
             "id": 105022535,
             "name": "cie-doc-servizi",
             "description": "CIE 3.0 Documentation - Utilizzo della nuova CIE per la realizzazione di servizi al cittadino",
-            "url": "git://github.com/italia/cie-doc-servizi.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/cie-doc-servizi.git",
+            "owner": "italia"
         },
         {
             "id": 105127174,
             "name": "spid-ios-sdk",
             "description": "SPID authentication library for iOS",
-            "url": "git://github.com/italia/spid-ios-sdk.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-ios-sdk.git",
+            "owner": "italia"
         },
         {
             "id": 105133196,
             "name": "italia.github.io",
             "description": "Github Pages for italia.github.io",
-            "url": "git://github.com/italia/italia.github.io.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/italia.github.io.git",
+            "owner": "italia"
         },
         {
             "id": 105135583,
             "name": "spid-android-sdk",
             "description": "SPID authentication library for Android",
-            "url": "git://github.com/italia/spid-android-sdk.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-android-sdk.git",
+            "owner": "italia"
         },
         {
             "id": 105181206,
             "name": "design-liferay-theme",
             "description": "A Liferay theme which implements the Italia Design System Edit Add topics",
-            "url": "git://github.com/italia/design-liferay-theme.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/design-liferay-theme.git",
+            "owner": "italia"
         },
         {
             "id": 105311407,
             "name": "spid-sp-shibboleth",
             "description": "Middleware SPID basato su Shibboleth",
-            "url": "git://github.com/italia/spid-sp-shibboleth.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-sp-shibboleth.git",
+            "owner": "italia"
         },
         {
             "id": 105311965,
             "name": "spid-sp-sapspid",
             "description": "SPID Service Provider SAML basato su SapSpid",
-            "url": "git://github.com/italia/spid-sp-sapspid.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-sp-sapspid.git",
+            "owner": "italia"
         },
         {
             "id": 105639049,
             "name": "spid-magento-ext",
             "description": "Extension for SPID authentication in Magento",
-            "url": "git://github.com/italia/spid-magento-ext.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-magento-ext.git",
+            "owner": "italia"
         },
         {
             "id": 105715563,
             "name": "spid-testenv-identityserver",
             "description": "Spid Test Environment - Identity Server",
-            "url": "git://github.com/italia/spid-testenv-identityserver.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-testenv-identityserver.git",
+            "owner": "italia"
         },
         {
             "id": 105715612,
             "name": "spid-testenv-backoffice",
             "description": "Spid Test Environment - Backoffice",
-            "url": "git://github.com/italia/spid-testenv-backoffice.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-testenv-backoffice.git",
+            "owner": "italia"
         },
         {
             "id": 105715652,
             "name": "spid-testenv-docker",
             "description": "Spid Test Environment - Docker",
-            "url": "git://github.com/italia/spid-testenv-docker.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-testenv-docker.git",
+            "owner": "italia"
         },
         {
             "id": 105760023,
             "name": "cie-nis-sdk",
             "description": "SDK for reading the NIS code from an Italian Electronic Identity Card (CIE)",
-            "url": "git://github.com/italia/cie-nis-sdk.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/cie-nis-sdk.git",
+            "owner": "italia"
         },
         {
             "id": 105767366,
             "name": "spid-testenv",
             "description": "Test environment for SPID (sample Identity Provider)",
-            "url": "git://github.com/italia/spid-testenv.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-testenv.git",
+            "owner": "italia"
         },
         {
             "id": 105797173,
             "name": "18app",
             "description": "A mobile application for the 18app service",
-            "url": "git://github.com/italia/18app.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/18app.git",
+            "owner": "italia"
         },
         {
             "id": 105799880,
             "name": "18app-java-sdk",
             "description": "Java SDK for developing applications which accept 18app vouchers (retails and stores)",
-            "url": "git://github.com/italia/18app-java-sdk.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/18app-java-sdk.git",
+            "owner": "italia"
         },
         {
             "id": 105799965,
             "name": "18app-dotnet-sdk",
             "description": ".NET SDK for developing merchant applications which accept 18app vouchers",
-            "url": "git://github.com/italia/18app-dotnet-sdk.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/18app-dotnet-sdk.git",
+            "owner": "italia"
         },
         {
             "id": 105900281,
             "name": "spid-limesurvey-plugin",
             "description": "SPID authentication plugin for LimeSurvey",
-            "url": "git://github.com/italia/spid-limesurvey-plugin.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-limesurvey-plugin.git",
+            "owner": "italia"
         },
         {
             "id": 106041438,
             "name": "spid-passport",
             "description": "Passport authentication provider for SPID",
-            "url": "git://github.com/italia/spid-passport.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-passport.git",
+            "owner": "italia"
         },
         {
             "id": 106042361,
             "name": "spid-spring",
             "description": "SPID extension for Java Spring",
-            "url": "git://github.com/italia/spid-spring.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-spring.git",
+            "owner": "italia"
         },
         {
             "id": 106042875,
             "name": "spid-joomla-plugin",
             "description": "Plugin per autenticazione SPID in Joomla",
-            "url": "git://github.com/italia/spid-joomla-plugin.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-joomla-plugin.git",
+            "owner": "italia"
         },
         {
             "id": 106044493,
             "name": "spid-drupal-module",
             "description": "SPID authentication module for Drupal",
-            "url": "git://github.com/italia/spid-drupal-module.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-drupal-module.git",
+            "owner": "italia"
         },
         {
             "id": 106044915,
             "name": "18app-merchant-sdk",
             "description": "SDK for merchant applications",
-            "url": "git://github.com/italia/18app-merchant-sdk.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/18app-merchant-sdk.git",
+            "owner": "italia"
         },
         {
             "id": 106081248,
             "name": "design-qml-components",
             "description": "QML Components that follow the Italia Design System Guidelines",
-            "url": "git://github.com/italia/design-qml-components.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/design-qml-components.git",
+            "owner": "italia"
         },
         {
             "id": 106081316,
             "name": "cie-middleware-osx",
             "description": "Middleware della CIE (Carta di Identità Elettronica) per OSX",
-            "url": "git://github.com/italia/cie-middleware-osx.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/cie-middleware-osx.git",
+            "owner": "italia"
         },
         {
             "id": 106081519,
             "name": "cie-middleware-linux",
             "description": "Middleware della CIE (Carta di Identità Elettronica) per Linux",
-            "url": "git://github.com/italia/cie-middleware-linux.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/cie-middleware-linux.git",
+            "owner": "italia"
         },
         {
             "id": 106086130,
             "name": "18app-cpp-sdk",
             "description": "C++ SDK for developing merchant applications which accept 18app vouchers",
-            "url": "git://github.com/italia/18app-cpp-sdk.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/18app-cpp-sdk.git",
+            "owner": "italia"
         },
         {
             "id": 106088459,
             "name": "domain-scan",
             "description": "A pipeline for scanning domains to measure things like speed, accessibility, and HTTPS.",
-            "url": "git://github.com/italia/domain-scan.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/domain-scan.git",
+            "owner": "italia"
         },
         {
             "id": 106089115,
             "name": "18app-php-sdk",
             "description": "PHP SDK for developing merchant applications which accept 18app vouchers￼",
-            "url": "git://github.com/italia/18app-php-sdk.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/18app-php-sdk.git",
+            "owner": "italia"
         },
         {
             "id": 106095291,
             "name": "daf-govpay-ingestion",
             "description": "DAF ingestion plugin for GovPay data",
-            "url": "git://github.com/italia/daf-govpay-ingestion.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/daf-govpay-ingestion.git",
+            "owner": "italia"
         },
         {
             "id": 106103220,
             "name": "anpr-error-search",
             "description": "A search interface to sort through error codes",
-            "url": "git://github.com/italia/anpr-error-search.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/anpr-error-search.git",
+            "owner": "italia"
         },
         {
             "id": 106105583,
             "name": "spid-liferay",
             "description": "SPID authentication plugin for Liferay",
-            "url": "git://github.com/italia/spid-liferay.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-liferay.git",
+            "owner": "italia"
         },
         {
             "id": 106105986,
             "name": "daf-d3-visualization",
             "description": "d3.js visualization using DAF data",
-            "url": "git://github.com/italia/daf-d3-visualization.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/daf-d3-visualization.git",
+            "owner": "italia"
         },
         {
             "id": 106106029,
             "name": "18app-python-sdk",
             "description": "Python SDK for developing merchant applications which accept 18app vouchers",
-            "url": "git://github.com/italia/18app-python-sdk.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/18app-python-sdk.git",
+            "owner": "italia"
         },
         {
             "id": 106113161,
             "name": "design-ckan-theme",
             "description": "A CKAN theme which implements the Italia Design System",
-            "url": "git://github.com/italia/design-ckan-theme.git"
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/design-ckan-theme.git",
+            "owner": "italia"
+        },
+        {
+            "id": 106160282,
+            "name": "spid-ionic-sdk",
+            "description": "SPID authentication library for Ionic",
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/spid-ionic-sdk.git",
+            "owner": "italia"
+        },
+        {
+            "id": 106173850,
+            "name": "18app-assets",
+            "description": "Asset grafici per applicazione mobile 18app",
+            "organization_name": "Developers Italia",
+            "url": "git://github.com/italia/18app-assets.git",
+            "owner": "italia"
         }
     ]
 }

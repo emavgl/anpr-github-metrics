@@ -1,8 +1,20 @@
 <div ng-controller="RepositoryController">
     <h1>{{ repo.owner }}/{{ repo.name }}</h1>
-<canvas id="bar" class="chart chart-bar"
+<!-- <canvas id="bar" class="chart chart-bar"
   chart-data="data" chart-labels="labels" chart-series="series">
 </canvas>
+ -->
 
+<canvas id="graph-first_response" class="chart chart-bar"
+  chart-data="data_first_response" chart-colors="colors_first_response" chart-labels="labels_first_response" chart-series="series-first_response">
+</canvas>
+
+<canvas id="graph-closing_times" class="chart chart-bar"
+  chart-data="data_closing_times" chart-colors="colors_closing_times" chart-labels="labels_closing_times" chart-series="series_closing_times">
+</canvas>
+
+<canvas id="graph-number_total" class="chart chart-pie"
+  chart-data="data_number_total" chart-colors="colors_number_total" chart-labels="labels_number_total" chart-series="series_number_total">
+</canvas>
 
 </div>

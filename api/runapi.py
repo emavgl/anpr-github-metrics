@@ -40,7 +40,7 @@ def get_repository_info(repository_name):
     Get repository info
     """
     repository = ghapi.get_repository(organization, repository_name)
-    repo_info = ghapi.get_repository_info(repository)
+    repo_info = ghapi.get_repository_info(organization, repository)
     res = {'respository': repo_info}
     json_res = json.dumps(res, default=datetime_handler)
     return json_res, 200, {'Content-Type': 'application/json'}

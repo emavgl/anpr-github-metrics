@@ -11,9 +11,9 @@ app.config(function($routeProvider, $httpProvider, $locationProvider) {
         templateUrl : "js/views/organization/organization.html",
         controller: 'OrganizationController',
     })
-    .when("/repository", {
+    .when("/repository/:id", {
         templateUrl : "js/views/repository/repository.html",
-        controller: 'RepositoryController',
+        controller: 'RepositoryController'
     })
     .when("/issue", {
         templateUrl : "js/views/issue/issue.html",
@@ -31,13 +31,23 @@ app.controller('NavController', function($scope, $location, $http) {
     $scope.repositories = [];
 
     $scope.getRepos = function(){
-        $http.get("http://www.mocky.io/v2/59d90ef41000006b01caf0de").then(function(resp){
-            $scope.repositories = resp.data
+        $http.get("http://localhost:5010/repositories").then(function(resp){
+            $scope.repositories = resp.data.repositories
         }).catch(function(){
             console.log("error getting repos")
         });
     }
 
+    $scope.switchToRepo = function(id){
+        // $http.get("http://www.mocky.io/v2/59d90ef41000006b01caf0de").then(function(resp){
+        //     $scope.repositories = resp.data
+        // }).catch(function(){
+        //     console.log("error getting repos")
+        // });
+
+        router
+
+    }
     $scope.getRepos();
 
 });

@@ -19,10 +19,10 @@
 
         $scope.getRepo = function(evento_id){
             console.log(backendEndpoint+"/repositories/"+evento_id);
-            $http.get(backendEndpoint+"/repositories/"+evento_id).then(function(response){
-                $console.log(response.data);
-                $scope.repo = response.data;
+            $http.get(backendEndpoint+"/repositories/"+evento_id, { timeout: 100000 }).then(function(response){
+                $scope.repo = response.data.repository;
             }).catch(function(data){
+                console.log(data);
                 console.log("errore nella richiesta al server");
             });
         };

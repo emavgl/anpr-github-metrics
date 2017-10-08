@@ -27,7 +27,7 @@ class GithubApi:
         org_info['number_of_following'] = organization.following
         org_info['id'] = organization.id
         org_info['email'] = organization.email
-        org_info['name'] = organization.name
+        org_info['owner'] = organization.login
         return org_info
 
     def get_issues(self, organization_name, repository_name):
@@ -186,6 +186,7 @@ class GithubApi:
             repo_info['description'] = r.description
             repo_info['organization_name'] = organization.name
             repo_info['url'] = r.git_url
+            repo_info['owner'] = organization.login
             repositories.append(repo_info)
             
         return repositories
@@ -205,6 +206,7 @@ class GithubApi:
         
         repo_info['issues'], repo_info['pull_requests'] = self.get_issues_and_pull_requests(organization.login, repository.name)
         repo_info['name'] = repository.name
+        repo_info['owner'] = organization.login
         repo_info['created_at'] = repository.created_at
         repo_info['url'] = repository.git_url
         repo_info['description'] = repository.description

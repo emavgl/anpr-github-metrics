@@ -4,3 +4,4 @@ gunicorn
 PyGithub
 python-dateutil
 numpy
+Flask-Cache
